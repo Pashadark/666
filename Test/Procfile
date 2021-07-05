@@ -1,1 +1,1 @@
-web: gunicorn 666.wsgi
+web: gunicorn Test.wsgi
